@@ -701,3 +701,26 @@ footer .f-menu {
 .copy-right .socials i:hover{
   color: #fff;
 }
+
+/* =================== single page */
+.single{
+  width: 100%;
+  background: #f8f9fa;
+  float: right;
+}
+.main-single{
+  float: right;
+  width: 71%;
+  margin: 30px 0;
+}
+.sidbar{
+  width: 27%;
+  margin: 30px 0;
+}
+
+.post-single{}
+.post-single header{}
+.post-single header h1{}
+.post-single .post-meta{}
+.post-single .post-meta i{}
+.post-single .post-meta a{}
